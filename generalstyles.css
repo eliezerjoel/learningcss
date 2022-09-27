@@ -1,0 +1,18 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+}
+#h1styles{
+    color: rgb(15, 27, 95);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+#liststyles{
+    list-style: circle;
+    text-decoration: overline;
+}
+.pstyles{
+    font-weight: 700;
+    background-color:crimson;
+    margin: 3cm;
+}
